@@ -1,0 +1,26 @@
+{
+  "name": "serviceworker",
+  "version": "1.0.0",
+  "description": "hackday about service worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexisjanvier/hd-service-worker.git"
+  },
+  "keywords": [
+    "service",
+    "worker"
+  ],
+  "author": "alexisjanvier <contact@alexisjanvier.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexisjanvier/hd-service-worker/issues"
+  },
+  "homepage": "https://github.com/alexisjanvier/hd-service-worker#readme",
+  "devDependencies": {
+    "json-server": "0.8.19"
+  }
+}
